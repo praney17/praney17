@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @praney17
 - 👀 I’m interested in web dev and android 
 - 🌱 I’m currently learning C++
+- 🧙‍♂️ I'm decent at python, c and html
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me: https://www.linkedin.com/in/praney-sharma-037818280/
 - 😄 Pronouns: he/him
